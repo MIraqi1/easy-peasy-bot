@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "prototype",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "Quick real-time notifications for product and techonology news and updates.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
